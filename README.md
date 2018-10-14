@@ -16,8 +16,9 @@ Python Library:
 					python setup.py install
 					
 MisspelledText - input txt file that you want to spell check
+
+Run Code:
+	HW_1 - contains main()	
 	
 CorrectedText - output txt file that return the suggested spelling
 
-Code:
-	HW_1 - contains main()	
